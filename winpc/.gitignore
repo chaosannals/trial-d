@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/exert-d-winpc
+exert-d-winpc.so
+exert-d-winpc.dylib
+exert-d-winpc.dll
+exert-d-winpc.a
+exert-d-winpc.lib
+exert-d-winpc-test-*
+*.exe
+*.o
+*.obj
+*.lst

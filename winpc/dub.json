@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"chaosannals"
+	],
+	"copyright": "Copyright © 2021, chaosannals",
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "exert-d-winpc"
+}
