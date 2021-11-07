@@ -3,6 +3,9 @@
 		"chaosannals"
 	],
 	"copyright": "Copyright © 2021, chaosannals",
+	"dependencies": {
+		"gtk-d": "~>3.9.0"
+	},
 	"description": "A minimal D application.",
 	"license": "MIT",
 	"name": "exert-d-winpc"
