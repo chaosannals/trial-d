@@ -9,6 +9,9 @@
 	"description": "A minimal D application.",
 	"license": "MIT",
 	"name": "exert-d-jrexp",
+	"sourceFiles": [
+		"app.res"
+	],
 	"lflags": [
 		"/exet:nt",
 		"/su:windows:5.1"
