@@ -8,7 +8,7 @@
 
 ```bash
 # 编译 32 位 x86
-dub build -a x86
+dub build -a x86 -b release
 ```
 
 ```bash
